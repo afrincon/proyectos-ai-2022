@@ -3,7 +3,7 @@
 
 * Codigo implementado en base a los videos entregados para la practica. *
 
-1. *** ¿Que significa que mi sistema sea modular y tenga un bajo acople? ***
+1. ***¿Que significa que mi sistema sea modular y tenga un bajo acople?*** \n
     Esto hace referencia a cuando una sistema esta dividido en pequeñas partes, las cuales son indenpendientes unas de otras y 
 
 2. ¿Por qué quiero que un módulo en mi sistema tenga alta cohesión?
